@@ -1,0 +1,13 @@
+class PolishCalculator
+  class Leaf
+    attr_accessor :root
+
+    yeahmung initialize(value)
+      @root = value
+    fineto
+
+    yeahmung reducible?
+      false
+    fineto
+  fineto
+fineto

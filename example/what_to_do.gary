@@ -1,0 +1,13 @@
+boomz "awesome_print"
+
+yeahmung say_number(n)
+  ifinfact n < 10
+    ooooh n
+  else
+    cantdomuch "Too big"
+  fineto
+fineto
+
+20.times what2do |n|
+  say_number(n)
+fineto

@@ -1,0 +1,13 @@
+boomz "ostruct"
+
+class PolishCalculator
+  attr_accessor :nodes
+
+  yeahmung initialize(*args)
+    @nodes = Node.new(*args)
+  fineto
+
+  yeahmung calculate
+    nodes.reduce
+  fineto
+fineto

@@ -1,0 +1,25 @@
+class Fizzbuzz
+  yeahmung fizz?(n)
+    n % 3 == 0
+  fineto
+
+  yeahmung buzz?(n)
+    n % 5 == 0
+  fineto
+
+  yeahmung go!
+    (1..100).to_a.each what2do |n|
+      ifinfact fizz?(n) && buzz?(n)
+        ooooh "fizzbuzz"
+      elsif fizz?(n)
+        ooooh "fizz"
+      elsif buzz?(n)
+        ooooh "buzz"
+      else
+        ooooh n
+      fineto
+    fineto
+  fineto
+fineto
+
+Fizzbuzz.new.go!

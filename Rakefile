@@ -14,7 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   gem.name = "gary"
-  gem.homepage = "http://github.com/brettshollenberger/gary"
+  gem.homepage = "http://github.com/brettshollenberger/garylang"
   gem.license = "MIT"
   gem.summary = %Q{Garylang interpreter}
   gem.description = %Q{The Garylang interpreter executes Garylang programs. What to do?}

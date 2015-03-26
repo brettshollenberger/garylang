@@ -6,6 +6,10 @@ Garylang parser
 
 Can't do much, right mon?
 
+```bash
+gary fizzbuzz.gary
+```
+
 == Copyright
 
 Copyright (c) 2015 Brett Cassette. See LICENSE.txt for

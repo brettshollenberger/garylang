@@ -1,8 +1,8 @@
-= garylang
+# garylang
 
 Garylang parser
 
-== What to do?
+## What to do?
 
 Can't do much, right mon?
 
@@ -10,7 +10,7 @@ Can't do much, right mon?
 gary fizzbuzz.gary
 ```
 
-== Copyright
+## Copyright
 
 Copyright (c) 2015 Brett Cassette. See LICENSE.txt for
 further details.
